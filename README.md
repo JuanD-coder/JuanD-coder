@@ -7,9 +7,9 @@
 ⠀⠀⢀⣿⣿⣿⣿⣿⠃⣿⠃⠀⠀⠈⣿⠘⣿⣿⣿⣿⣿⣿⠀⠀⠀    - OS: GNU Linux "Manjaro"
 ⠀⠀⢸⣿⣿⡿⢹⡇⢠⠇⠀⠀⠀⠀⠸⢀⣹⡘⣿⣿⣿⣿ ⠀⠀    - Shell: bash 5.1.16
 ⠀⠀⣾⣿⣿⡇⠎⣴⣿⣧⠀⠀⠀⠀⢰⣿⣿⡕⡘⣿⣿⣿⡆⠀⠀    - Languages: MySQL, Ts, Kotlin
-⠀⠀⣿⣿⣿⣿⠀⡿⢿⣿⠀⠀⠀⠀⠸⠿⣿⡇⠇⣿⣿⣿⡇⠀⠀    - Learning: Python, Bash, JS, CSS and HTML
+⠀⠀⣿⣿⣿⣿⠀⡿⢿⣿⠀⠀⠀⠀⠸⠿⣿⡇⠇⣿⣿⣿⡇⠀⠀    - Learning: Python, Bash, CSS and HTML
 ⠀⠀⣿⣿⣿⡇⠀⠐⠾⠋⠀⠀⠀⠀⠀⠶⠟⠀⠀⣿⣿⣿⡇⠀⠀    - FavouriteSong: Broken Youth -Original Version-
-⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀    - Hobbies: Gaming, watching anime, coding while I am listening music
+⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀    
 ⠀⠀⣿⣿⣿⣷⡀⠀⠀⠀⠀⠆⠀⠐⠀⠀⠀⠀⣼⣿⣿⣿⡇⠀⠀
 ⠀⠀⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⣠⣴⣾⣿⣿⣿⣿⡇⠀⠀
 ⠀⠀⣿⣿⣿⣿⣿⣿⣿⡟⠀⠀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⡇⠀⠀
