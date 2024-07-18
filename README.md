@@ -6,7 +6,7 @@
 ⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⡿⠁⠈⢿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀    - Username: Juan-David
 ⠀⠀⢀⣿⣿⣿⣿⣿⠃⣿⠃⠀⠀⠈⣿⠘⣿⣿⣿⣿⣿⣿⠀⠀⠀    - OS: GNU Linux "Manjaro"
 ⠀⠀⢸⣿⣿⡿⢹⡇⢠⠇⠀⠀⠀⠀⠸⢀⣹⡘⣿⣿⣿⣿ ⠀⠀    - Languages: HTML, CSS, Kotlin, MySQL, JavaScript and TypeScript
-⠀⠀⣾⣿⣿⡇⠎⣴⣿⣧⠀⠀⠀⠀⢰⣿⣿⡕⡘⣿⣿⣿⡆⠀⠀    - Learning: Python and Bash 
+⠀⠀⣾⣿⣿⡇⠎⣴⣿⣧⠀⠀⠀⠀⢰⣿⣿⡕⡘⣿⣿⣿⡆⠀⠀    - Learning: Python, Java and Bash 
 ⠀⠀⣿⣿⣿⣿⠀⡿⢿⣿⠀⠀⠀⠀⠸⠿⣿⡇⠇⣿⣿⣿⡇⠀⠀    - FavouriteSong: Broken Youth -Original Version-
 ⠀⠀⣿⣿⣿⡇⠀⠐⠾⠋⠀⠀⠀⠀⠀⠶⠟⠀⠀⣿⣿⣿⡇⠀⠀     
 ⠀⠀⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡇⠀⠀    
