@@ -20,18 +20,13 @@
 ⡝⡵⡕⡀⠑⠳⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⢉⡠⡲⡫⡪⡪⡣ ⠀    - Java and Spring Boot
 
 ```
+###
 
-<div align="center">
-  <img width="800" height="400" src="https://i.pinimg.com/originals/38/ff/e1/38ffe17ce5ffeff0c83c10ad10ddc671.gif"  />
-</div>
+<h2 align="center">💡 Languages & Technologies</h2>
 
 ###
 
-<h2 align="center">Skills and knowledge in</h2>
-
-###
-
-<h3 align="left">🧰 Languages</h3>
+### 🧰 Languages
 
 ###
 
@@ -53,7 +48,7 @@
 
 ###
 
-<h3 align="left">Database Managers</h3>
+### 🗃️ Databases
 
 ###
 
@@ -115,17 +110,23 @@
 
 ###
 
-<h4 align="left">Connect with me:</h4>
+<h3 align="left">📬 Connect with me:</h3>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/Juan-D-Vidal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
   <img width="12" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="gmail logo"  />
+  <a href="mailto:gutirrezvidalj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Gmail" />
+  </a>
 </div>
 
 ###
+
+## 📈 GitHub Stats
 
 <br clear="both">
 
